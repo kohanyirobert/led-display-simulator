@@ -1,0 +1,3 @@
+= LED Display Simulator
+
+Run it like `python3 main.py <width> <height>`.
